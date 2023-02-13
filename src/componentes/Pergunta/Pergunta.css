@@ -1,0 +1,20 @@
+.pergunta {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin: 100px auto;
+    max-width: 60%;
+    background-color: #F2F2F2;
+    border-radius: 20px;
+    padding: 8px 36px;
+    box-shadow: 8px 8px 16px rgba(0, 0, 0, 0.32);
+}
+
+.pergunta img {
+    width: 100px;
+    padding: 16px;
+}
+
+.pergunta section {
+    flex-direction: column;
+}

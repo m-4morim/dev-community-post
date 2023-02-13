@@ -1,0 +1,25 @@
+.resposta {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin: 100px auto;
+    max-width: 60%;
+    background-color: #F2F2F2;
+    border-radius: 20px;
+    padding: 18px 36px;
+    box-shadow: 8px 8px 16px rgba(0, 0, 0, 0.32);
+}
+
+.resposta img {
+    width: 120px;
+    padding: 16px;
+}
+
+.resposta section {
+    flex-direction: column;
+}
+
+.campo-resposta {
+    border: none;
+    border-radius: 8px;
+}
